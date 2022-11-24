@@ -35,4 +35,5 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 * https://www.qmunity.tech/tutorials
 * https://wiki.geant.org/display/NETDEV/Quantum+Fundamentals
 * https://ripe74.ripe.net/archives/video/72/ 
+* Quantum Internet Community Introduction https://ripe85.ripe.net/archives/video/896/ , Ivana Golub, October 2022, RIPE86 
 
