@@ -1,10 +1,7 @@
 # Quantum Internet Hackathon 2022
 This hackathon is a continuation of our previous Pan-European Hackathon in 2019 and a prequel to a series of planned events. The RIPE NCC is joined by the Quantum Internet Alliance (QIA), GÉANT, PSNC, SURF, QuTech and several universities to organise the Quantum Internet Hackathon 2022. 
 
-Links:
-* Link to the original announcement: https://labs.ripe.net/author/karla-white/take-part-in-the-quantum-internet-hackathon-2022/
-* Slack invite: https://join.slack.com/t/quantumintern-wig3176/shared_invite/zt-1jvupxck6-b~EvFGJTdq~Oj5mGDL3O0A 
-* 2019 hackathon repository with projects: https://github.com/PEQI19/challenges 
+
 
 ## Specific Challenges 
 
@@ -31,3 +28,10 @@ Links:
 * https://www.qmunity.tech/tutorials
 * https://wiki.geant.org/display/NETDEV/Quantum+Fundamentals
 * https://ripe74.ripe.net/archives/video/72/ 
+
+# Links
+* Original announcement: https://labs.ripe.net/author/karla-white/take-part-in-the-quantum-internet-hackathon-2022/
+* Slack invite: https://join.slack.com/t/quantumintern-wig3176/shared_invite/zt-1jvupxck6-b~EvFGJTdq~Oj5mGDL3O0A 
+* 2019 hackathon repository with projects: https://github.com/PEQI19/challenges 
+* How Hackathons Work https://github.com/Lizaterdag/QIH-2022/blob/main/How%20RIPE%20NCC%20hackathons%20work%20TXT.pdf
+* Slides of the Introduction: https://github.com/Lizaterdag/QIH-2022/blob/main/intro-to-hackathons-QIH-2022.pdf 
