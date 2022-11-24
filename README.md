@@ -11,7 +11,7 @@ Links:
 1. Challenge 1: QKD
 2. Challenge 2: API for Quantum Applications
 3. Challenge 3: QKD (Piotr) Integration of QKD with Macsec protocol
-4. Challenge 4: Little Green Qubits (Vesna) 
+4. Challenge 4: Little Green Qubits (Vesna) https://github.com/becha42/ClimateJustice#little-green-qubits 
 5. Challenge 5: Adding netqasm QKD 
 6. Challenge idea: Optimization or QKD links monitoring process
 
