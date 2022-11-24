@@ -22,3 +22,11 @@ Links:
 * Design and implement applications that use Quantum Protocol Zoo
 * Use the QNE Application Development Kit https://www.quantum-network.com/adk/ 
 * Designing protocols for resource sharing among multiple nodes for routing information within a quantum network
+
+# Learn More
+
+* https://qt.eu/discover-quantum/
+* https://qtedu.eu/
+* https://www.qmunity.tech/tutorials
+* https://wiki.geant.org/display/NETDEV/Quantum+Fundamentals
+* https://ripe74.ripe.net/archives/video/72/ 
