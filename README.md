@@ -6,7 +6,7 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 Here's an overview of the challenges for this hackathon:
 
 * Challenge 1: Quantum Key Distribution
-* Challenge 2: API for Quantum Protocols
+* Challenge 2: APIs for Quantum Protocols
 * Challenge 3: Little Green Qubits ([main repository for the challenge](https://github.com/becha42/ClimateJustice#little-green-qubits))
 
 ### QKD Challenge
@@ -18,22 +18,22 @@ This challenge will require you to implement your own QKD protocol using QNE-ADK
 3. Extend your protocol to be able to distinguish between an eavesdropper and channel noise
 4. (Open-ended) Authentication for QKD protocols
 
-Link to a repository with a more detailed description: *coming soon*
+👉 Link to a repository with a more detailed description: [here](https://github.com/hjir/QIH22-QKD)
 
 **Skills required:**
 Knowledge of QKD protocols is not required, but would be helpful. You will be implementing the protocol in QNE-ADK, so you should be somewhat comfortable with using Python.
 
-### API for Quantum Protocols Challenge
+### APIs for Quantum Protocols Challenge
 
 This is an open-ended set of challenges about APIs for quantum protocols. There is already one such API: [the ETSI QKD API](https://www.etsi.org/deliver/etsi_gs/QKD/001_099/004/01.01.01_60/gs_QKD004v010101p.pdf). There are three sub-challenges:
 
-1. Implement an API (similar to the ETSI QKD API) for any protocol from the [Quantum Protocol Zoo](https://wiki.veriqloud.fr/index.php?title=Main_Page)
+1. Design and implement an API (similar to the ETSI QKD API) for any protocol from the [Quantum Protocol Zoo](https://wiki.veriqloud.fr/index.php?title=Main_Page)
 2. Integrate such API within an already existing open-source app (e.g. Telegram, OpenSSL)
 3. Connect the API to QNE-ADK
 
 If you did not implement your own API in the first step, you can still follow sub-challenges 2. and/or 3. using the already implemented QKD API.
 
-Link to a repository with a more detailed description: *coming soon*
+👉 Link to a repository with a more detailed description: [here](https://github.com/hjir/QIH22-API)
 
 **Skills required:** This challenge requires you to have some programming experience. No quantum protocol knowledge is required. If you want to do sub-challenge 2, you should be comfortable with whatever language your chosen app is written in. QNE-ADK uses Python which is needed for sub-challenge 3.
 
