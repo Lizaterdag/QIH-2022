@@ -9,7 +9,7 @@ Here's an overview of the challenges for this hackathon:
 * Challenge 2: APIs for Quantum Protocols
 * Challenge 3: Little Green Qubits ([main repository for the challenge](https://github.com/becha42/ClimateJustice#little-green-qubits))
 
-### QKD Challenge
+### 1. QKD Challenge
 
 This challenge will require you to implement your own QKD protocol using QNE-ADK and test it against an eavesdropper. It consists of four parts:
 
@@ -23,7 +23,7 @@ This challenge will require you to implement your own QKD protocol using QNE-ADK
 **Skills required:**
 Knowledge of QKD protocols is not required, but would be helpful. You will be implementing the protocol in QNE-ADK, so you should be somewhat comfortable with using Python.
 
-### APIs for Quantum Protocols Challenge
+### 2. APIs for Quantum Protocols Challenge
 
 This is an open-ended set of challenges about APIs for quantum protocols. There is already one such API: [the ETSI QKD API](https://www.etsi.org/deliver/etsi_gs/QKD/001_099/004/01.01.01_60/gs_QKD004v010101p.pdf). There are three sub-challenges:
 
@@ -36,6 +36,15 @@ If you did not implement your own API in the first step, you can still follow su
 👉 Link to a repository with a more detailed description: [here](https://github.com/hjir/QIH22-API)
 
 **Skills required:** This challenge requires you to have some programming experience. No quantum protocol knowledge is required. If you want to do sub-challenge 2, you should be comfortable with whatever language your chosen app is written in. QNE-ADK uses Python which is needed for sub-challenge 3.
+
+### 3. "Little Green Qubits" 
+
+This is a theoretical / conceptual challenge, trying to answer questions:
+
+* Can Quantum Internet be environmentally sustainable?
+* How can Quantum Internet contribute to Climate Justice?
+
+👉 Link to a repository with a more detailed description:  ([link](https://github.com/becha42/ClimateJustice#little-green-qubits))
 
 ## General Ideas & Documentation
 
