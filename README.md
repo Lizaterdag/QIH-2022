@@ -54,12 +54,15 @@ This is a theoretical / conceptual challenge, trying to answer questions:
 * Use the QNE Application Development Kit https://www.quantum-network.com/adk/
 * Designing protocols for resource sharing among multiple nodes for routing information within a quantum network
 
-## Useful Links
+## Useful Links 
+* Zoom link: https://ripe.zoom.us/j/94200226954?pwd=NWJuNnh1eUpTSi9IUnZiVGdXYVZZUT09
 * Original announcement: https://labs.ripe.net/author/karla-white/take-part-in-the-quantum-internet-hackathon-2022/
 * Slack invite: https://join.slack.com/t/quantumintern-wig3176/shared_invite/zt-1jvupxck6-b~EvFGJTdq~Oj5mGDL3O0A
 * 2019 hackathon repository with projects: https://github.com/PEQI19/challenges
 * How Hackathons Work https://github.com/Lizaterdag/QIH-2022/blob/main/How%20RIPE%20NCC%20hackathons%20work%20TXT.pdf
 * Slides of the Introduction: https://github.com/Lizaterdag/QIH-2022/blob/main/intro-to-hackathons-QIH-2022.pdf
+* Video recording of the intro webinar https://youtu.be/OX1aOkhcQno  
+* presentation slides: https://drive.google.com/file/d/1qxee4CL3QElLgWo37ILNfHgWLIj0tru4/view?usp=share_link  
 
 
 # Learn More about Quantum Computing & Networking
