@@ -3,12 +3,18 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 
 # Results (temporary version)
 
+## Repositories 
 * https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022.md
 * https://github.com/brunorijsman/quantum-internet-hackathon-2022/
 * https://github.com/Doomsk/QIH-quantifly/tree/main/qkd/src 
 * 
 
-## Challenges
+## Slides 
+
+* https://github.com/Lizaterdag/QIH-2022/blob/main/PITCH%20DECK%20team%20QuantiFly%20for%20DEMO%20qih.pdf
+* https://github.com/Lizaterdag/QIH-2022/blob/main/QuBits_for_the_kids-QIH.pdf
+
+# Challenges
 
 Here's an overview of the challenges for this hackathon:
 
