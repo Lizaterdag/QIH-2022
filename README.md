@@ -3,7 +3,7 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 
 # Results (temporary version)
 
-* https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022
+* https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022.md
 * https://github.com/brunorijsman/quantum-internet-hackathon-2022/
 * 
 
