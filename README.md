@@ -1,6 +1,12 @@
 # Quantum Internet Hackathon 2022
 This hackathon is a continuation of our previous Pan-European Hackathon in 2019 and a prequel to a series of planned events. The RIPE NCC is joined by the Quantum Internet Alliance (QIA), GÉANT, PSNC, SURF, QuTech and several universities to organise the Quantum Internet Hackathon 2022.
 
+# Results (temporary version)
+
+* https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022
+* https://github.com/brunorijsman/quantum-internet-hackathon-2022/
+* 
+
 ## Challenges
 
 Here's an overview of the challenges for this hackathon:
