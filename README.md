@@ -13,6 +13,7 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 
 * https://github.com/Lizaterdag/QIH-2022/blob/main/PITCH%20DECK%20team%20QuantiFly%20for%20DEMO%20qih.pdf
 * https://github.com/Lizaterdag/QIH-2022/blob/main/QuBits_for_the_kids-QIH.pdf
+* https://github.com/Lizaterdag/QIH-2022/blob/main/Q-Harmonics-end-of-hackathon-presentation.pdf 
 
 # Challenges
 
