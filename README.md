@@ -3,18 +3,27 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 
 # Results (temporary version)
 
+* GAME! https://qh-2022.vercel.app/mario 
+* Paper! 
+
 ## Repositories 
 * https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022.md
 * https://github.com/brunorijsman/quantum-internet-hackathon-2022/
 * https://github.com/Doomsk/QIH-quantifly/tree/main/qkd/src 
 * https://github.com/krokkofant/qih22_qkd
 * https://github.com/GSiddiMoreau/QIH22-QKD 
+* https://github.com/theguymeyer/qkd-hackathon-team-uncertainty 
+* https://github.com/baronefr/qih22-hackerita
+* https://github.com/AleMarcomini/QIH-2022 
+* https://github.com/XaBerr/QH2022
 
 ## Slides 
 
 * https://github.com/Lizaterdag/QIH-2022/blob/main/PITCH%20DECK%20team%20QuantiFly%20for%20DEMO%20qih.pdf
 * https://github.com/Lizaterdag/QIH-2022/blob/main/QuBits_for_the_kids-QIH.pdf
 * https://github.com/Lizaterdag/QIH-2022/blob/main/Q-Harmonics-end-of-hackathon-presentation.pdf 
+* https://github.com/GSiddiMoreau/QIH22-QKD/blob/main/qih2022_qukido_presentation.pdf 
+* 
 
 # Challenges
 
