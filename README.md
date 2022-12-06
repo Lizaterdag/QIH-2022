@@ -4,7 +4,7 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 # Results (temporary version)
 
 * GAME! https://qh-2022.vercel.app/mario 
-* Paper! 
+* Paper! https://github.com/Lizaterdag/QIH-2022/blob/main/Qubits_for_the_Kids.pdf 
 
 ## Repositories 
 * https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022.md
@@ -23,7 +23,7 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 * https://github.com/Lizaterdag/QIH-2022/blob/main/QuBits_for_the_kids-QIH.pdf
 * https://github.com/Lizaterdag/QIH-2022/blob/main/Q-Harmonics-end-of-hackathon-presentation.pdf 
 * https://github.com/GSiddiMoreau/QIH22-QKD/blob/main/qih2022_qukido_presentation.pdf 
-* 
+* https://github.com/Lizaterdag/QIH-2022/blob/main/Constant%20Uncertainty%20–%20QKD%20Challenge.pdf 
 
 # Challenges
 
