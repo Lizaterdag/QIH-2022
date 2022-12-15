@@ -16,6 +16,7 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 * https://github.com/baronefr/qih22-hackerita
 * https://github.com/AleMarcomini/QIH-2022 
 * https://github.com/XaBerr/QH2022
+* https://github.com/krokkofant/qih_e91 
 
 ## Slides 
 
